@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-StorySpark AI is a personal project aimed at creating a streamlined web application that allows users, initially focused on my daughter (age 10), to collaboratively create interactive "choose your own adventure" style stories with an AI. Inspired by her love for audiobooks and detective stories (like Enid Blyton's "Famous Five" or "Die drei ???"), this app empowers her to define basic story parameters and then guide the narrative through choices, resulting in a unique story co-created with an AI assistant (like Claude or Gemini).
+StorySpark AI is a personal project aimed at creating a streamlined web application that allows users, initially focused on my daughter, to collaboratively create interactive "choose your own adventure" style stories with an AI. Inspired by her love for audiobooks and detective stories (like Enid Blyton's "Famous Five" or "Die drei ???"), this app empowers her to define basic story parameters and then guide the narrative through choices, resulting in a unique story co-created with an AI assistant (like Claude or Gemini).
 
 The core goal is to make story creation simple, engaging, and child-friendly. Completed stories can be read directly, listened to as automatically generated audiobooks (using Text-to-Speech like ElevenLabs), and eventually, illustrated with AI-generated images and even printed as physical books via Print-on-Demand services.
 

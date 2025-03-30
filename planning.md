@@ -1,9 +1,3 @@
-
----
-
-**`PLANNING.md`**
-
-```markdown
 # Development Plan - StorySpark AI
 
 ## Introduction
